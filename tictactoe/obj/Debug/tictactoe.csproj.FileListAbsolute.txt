@@ -1,0 +1,15 @@
+C:\Users\haith\source\repos\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\haith\source\repos\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\haith\source\repos\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\haith\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.csprojAssemblyReference.cache
+C:\Users\haith\source\repos\tictactoe\tictactoe\obj\Debug\MainWindow.g.cs
+C:\Users\haith\source\repos\tictactoe\tictactoe\obj\Debug\App.g.cs
+C:\Users\haith\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe_MarkupCompile.cache
+C:\Users\haith\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe_MarkupCompile.lref
+C:\Users\haith\source\repos\tictactoe\tictactoe\obj\Debug\MainWindow.baml
+C:\Users\haith\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.g.resources
+C:\Users\haith\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+C:\Users\haith\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+C:\Users\haith\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\haith\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\haith\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
